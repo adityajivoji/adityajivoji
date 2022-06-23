@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityajivoji
 -  I’m interested in robotics, computer vision, machine learning
--  I’m currently learning Computer vision, Arduino, machine learning.
+-  I’m currently working on Generative Models
 -  I’m looking to collaborate on machine learning projects
 -  How to reach me at linkedin https://www.linkedin.com/in/aditya-jivoji/ or https://www.linkedin.com/in/aditya-jivoji-0021b721a
 
